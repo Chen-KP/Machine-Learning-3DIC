@@ -1,0 +1,2 @@
+model:    0, time: 71.6609
+All Time=71.66401529312134sec
