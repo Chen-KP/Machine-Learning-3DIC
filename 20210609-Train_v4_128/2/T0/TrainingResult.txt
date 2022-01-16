@@ -1,0 +1,2 @@
+model:    0, epoch:   76, train_loss:  5.118e-02, train accuracy: 0.987934, time: 13146.6
+All Time=13148.071724414825sec
