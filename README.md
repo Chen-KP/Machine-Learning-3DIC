@@ -20,9 +20,7 @@ https://drive.google.com/drive/folders/1-FB62wS0pXGbNby_2NSgi40pHn6_bqnB?usp=sha
 
 Cross-Validation
 
-TrainingModel_CrossValidation_1, 2, 3 are 3 fold cross validation, and the training set and test set are selected as follows,
-
-![image](note_pic/cross_validation.JPG)
+TrainingModel_CrossValidation_1, 2, 3 are 3 fold cross validation.
 
 The following is the CNN flowchart and model architecture :
 
